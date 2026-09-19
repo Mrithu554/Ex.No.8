@@ -2,9 +2,9 @@
 
 # Reproducing an Image Using Prompts for Image Generation
 
-## Date:
+## Date: 19/9/26
 
-## Reg. No.:
+## Reg. No.: 212223060173
 
 ---
 
